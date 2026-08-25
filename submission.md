@@ -5,6 +5,11 @@ For this project, I have successfully implemented both Continuous Integration an
 - The CD pipelines securely manage deployment to an AWS EKS cluster, utilizing Kustomize to update deployment manifests and trigger rolling updates for our services automatically upon merge to main. 
 - I have also verified the deployed applications dynamically correctly communicate and function via their ELB endpoints as documented below.
 
+
+GitHub Repository:
+https://github.com/mounika290105/movie-catalog-cicd-project
+
+
 ## Frontend Deployment
 The frontend is deployed and accessible at:
 
