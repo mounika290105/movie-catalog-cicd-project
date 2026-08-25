@@ -15,5 +15,5 @@ The frontend is deployed and accessible at:
 
 The backend is deployed and accessible at:
 
-[Live Backend URL](http://af14c63dac2634eedbd64401bbd26bc4-667172143.us-east-1.elb.amazonaws.com)
+[Live Backend URL](http://af14c63dac2634eedbd64401bbd26bc4-667172143.us-east-1.elb.amazonaws.com/movies)
 
